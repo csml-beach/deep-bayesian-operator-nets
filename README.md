@@ -1,7 +1,7 @@
 # Bayesian Deep Operator Networks
-Bayesian Deep Operator Networks (DeepBayONets) enhance Physics-Informed Neural Networks (PINNs) by incorporating Bayesian methods with Deep Operator Networks (DeepONets) to estimate parameters of an underlying Partial Differential Equation (PDE). This integration allows the networks to deliver more accurate parameter estimations for both forward and inverse problems, even when dealing with noisy data, while also effectively measuring uncertainty in predictions. Additionally, Bayesian Deep Operator Networks substantially decrease the computational workload compared to traditional methods such as Bayesian Neural Networks (BNNs).
+Bayesian Deep Operator Networks (DeepBayONets) enhance Physics-Informed Neural Networks (PINNs) by incorporating Bayesian methods with Deep Operator Networks (DeepONets) to estimate parameters of an underlying Partial Differential Equation (PDE). This integration allows the networks to deliver more accurate estimations for both forward and inverse problems, even when dealing with noisy data, while also effectively measuring uncertainty in predictions. Additionally, Bayesian Deep Operator Networks substantially decrease the computational workload compared to traditional methods such as Bayesian Neural Networks (BNNs).
 <br><br>
-![architecture](https://github.com/user-attachments/assets/617bcf7f-2f3f-4fa1-9238-1f5b3f4c66ea)
+<img src="https://github.com/user-attachments/assets/617bcf7f-2f3f-4fa1-9238-1f5b3f4c66ea" alt="architecture" />
 <br><br>
 Three benchmark problems were used to evaluate DeepBayONets:
 - <a href="https://github.com/csml-beach/differentiable-models/blob/main/func-approximator/func-approx-high-noise.ipynb" target="_blank">One-dimensional function approximation </a>
