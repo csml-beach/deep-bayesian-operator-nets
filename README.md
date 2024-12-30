@@ -6,9 +6,9 @@ Bayesian Deep Operator Networks (DeepBayONets) enhance Physics-Informed Neural N
 <img src="https://github.com/user-attachments/assets/617bcf7f-2f3f-4fa1-9238-1f5b3f4c66ea" alt="architecture" />
 <br><br>
 Three benchmark problems were used to evaluate DeepBayONets:
-- <a href="https://github.com/csml-beach/differentiable-models/blob/main/func-approximator/func-approx-high-noise.ipynb" target="_blank">One-dimensional function approximation </a>
-- <a href="https://github.com/csml-beach/differentiable-models/blob/main/notebooks/heat-equation/bayes-pinn-PDE-posterior-samples.ipynb" target="_blank">One-dimensional unsteady heat equation </a>
-- <a href="https://github.com/csml-beach/differentiable-models/blob/main/notebooks/2D-non-linear-diffusion-reaction/2d-non-linear-multimode.ipynb" target="_blank">Two-dimensional reaction-diffusion equation </a> <br> <br>
+- <a href="https://github.com/csml-beach/differentiable-models/blob/main/func-approximator/func-approx-high-noise.ipynb" target="_blank" style="display:block;">One-dimensional function approximation </a>
+- <a href="https://github.com/csml-beach/differentiable-models/blob/main/notebooks/heat-equation/bayes-pinn-PDE-posterior-samples.ipynb" target="_blank" style="display:block;">One-dimensional unsteady heat equation </a>
+- <a href="https://github.com/csml-beach/differentiable-models/blob/main/notebooks/2D-non-linear-diffusion-reaction/2d-non-linear-multimode.ipynb" target="_blank" style="display:block;">Two-dimensional reaction-diffusion equation </a> <br> <br>
 <img width="1026" src="https://github.com/user-attachments/assets/38881587-441d-4a4e-9ba2-f4dc1d22d4b3" alt="learning process">
 <img width="1026" src="https://github.com/user-attachments/assets/23f327da-2377-407c-a657-b604846be593" alt="parameter distribution learning">
 
