@@ -17,5 +17,5 @@ Three benchmark problems were used to evaluate DeepBayONets:
   <img width="512" src="https://github.com/user-attachments/assets/23f327da-2377-407c-a657-b604846be593" alt="parameter distribution learning" style="display: block; margin: 0 auto;">
 <div align="center">
   
-![samples_github](https://github.com/user-attachments/assets/60cb9064-ff1b-401b-b6ff-50900c817a4a)
+<!-- ![samples_github](https://github.com/user-attachments/assets/60cb9064-ff1b-401b-b6ff-50900c817a4a)--!>
 
