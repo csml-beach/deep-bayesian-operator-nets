@@ -114,12 +114,12 @@ if __name__ == '__main__':
             print(f"Pretrain epoch {epoch}: data_loss={loss_d.item():.2e}")
 
     # Full PINN training
-    model.w_int  = 0.1
+    model.w_int  = 2.5
     model.w_bc   = 1.0
     model.w_norm = 10.0
-    model.w_data = 10.0
+    model.w_data = 100.0
     optimizer = optim.Adam(model.parameters(), lr=1e-2)
-    for epoch in range(5000):
+    for epoch in range(500):
         optimizer.zero_grad()
         li, lb, ld = model.compute_losses()
         loss = model.w_int*li + model.w_bc*lb + model.w_data*ld
